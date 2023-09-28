@@ -25,7 +25,7 @@ while (true){
 
 if (SenhaCadastrada)
 {
-    printf("senha Validade! \n");
+    printf("Senha Valida! \n");
 }
 
 

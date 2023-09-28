@@ -7,7 +7,7 @@ int main () {
     int digito;
 
 
-    printf("Digite o numero que deseja verificar:", numero);
+    printf("Digite o numero que deseja verificar: \n", numero);
     scanf("%d", &numero);
 
     if (numero % 2 == 0){
