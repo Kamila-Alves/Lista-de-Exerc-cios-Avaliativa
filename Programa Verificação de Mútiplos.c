@@ -15,8 +15,8 @@ int main () {
         printf("%d eh maior que %d \n", valor1, valor2);
     } 
     
-    else if (valor2 < valor1) {
-        printf("%d eh menor que %d \n", valor2, valor1);
+    else if (valor1 < valor2) {
+        printf("%d eh menor que %d \n", valor1, valor2);
     }
     
     else {
